@@ -83,7 +83,3 @@ Tasks are stored in a `tasks.json` file in the following format:
 ## Contributing 🤝
 
 Feel free to fork this repository and submit pull requests! You can also open issues if you find any bugs or have feature suggestions! 🐛✨
-
-## License 📄
-
-This project is open source and available under the MIT License. Feel free to use it as you wish! 🆓
